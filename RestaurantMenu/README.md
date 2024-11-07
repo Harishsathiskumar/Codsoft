@@ -1,5 +1,5 @@
 Restaurant Menu Flow Model
 
-https://www.figma.com/file/iUFz8kzy42Lb9YXwb39LaI/menu-of-coffee-shop?type=design&mode=design&t=3nwLysUURTevBNfK-1
+(https://www.figma.com/design/Cg8PORcHTV6PMN4mhQxo5t/Untitled?node-id=0-1&t=UrzQMB03zA9lYQik-1)
 
 Designed by HARISH S
